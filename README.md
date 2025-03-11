@@ -5,3 +5,12 @@ test
 
 yolo molo
 dasdsadas dasdsdas
+
+## jakas zmiana 
+
+
+### nastepmna
+
+cos tam
+
+bywa bywałeś
