@@ -13,4 +13,4 @@ dasdsadas dasdsdas
 
 cos tam
 
-blewa bvewaes d
+bywa bywałeś
