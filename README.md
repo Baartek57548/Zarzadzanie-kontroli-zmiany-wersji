@@ -16,3 +16,7 @@ cos tam
 bywa bywałeś
 
 siema cokoliwek
+
+
+# instrukcja obsługi
+# zmiany
