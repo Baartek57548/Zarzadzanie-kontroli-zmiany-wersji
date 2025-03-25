@@ -14,3 +14,6 @@ dasdsadas dasdsdas
 cos tam
 
 bywa bywałeś
+
+
+# instrukcja obsługi
