@@ -14,3 +14,5 @@ dasdsadas dasdsdas
 cos tam
 
 bywa bywałeś
+
+siema cokoliwek
